@@ -3,12 +3,6 @@
 <h1>Retrieval-based-Voice-Conversion-WebUI</h1>
 An easy-to-use voice conversion framework based on VITS.<br><br>
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange
-)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-
-<img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
-  
-[![RVC v1](https://img.shields.io/badge/RVCv1-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/tools/ipynb/v1.ipynb)
 [![RVC v2](https://img.shields.io/badge/RVCv2-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/tools/ipynb/v2.ipynb)
 [![Licence](https://img.shields.io/github/license/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=for-the-badge)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/LICENSE)
 [![Huggingface](https://img.shields.io/badge/🤗%20-Spaces-yellow.svg?style=for-the-badge)](https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main/)
@@ -17,7 +11,7 @@ An easy-to-use voice conversion framework based on VITS.<br><br>
 
 [**Changelog**](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/Changelog_EN.md) | [**FAQ (Frequently Asked Questions)**](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/wiki/FAQ-(Frequently-Asked-Questions)) 
 
-[**English**](../en/README.en.md) | [**中文简体**](../../README.md) | [**日本語**](../jp/README.ja.md) | [**한국어**](../kr/README.ko.md) ([**韓國語**](../kr/README.ko.han.md)) | [**Français**](../fr/README.fr.md) | [**Türkçe**](../tr/README.tr.md) | [**Português**](../pt/README.pt.md)
+[**한국어**](../kr/README.ko.md)
 
 </div>
 
@@ -134,7 +128,7 @@ Below is a list that includes the names of all pre-models and other files requir
 	```bash
 	rvcmd assets/uvr5 # RVC-Models-Downloader command
 	```
-If you want to use the v2 version of the model, you need to download additional resources in
+	If you want to use the v2 version of the model, you need to download additional resources in
 
 - ./assets/pretrained_v2
 	```bash
@@ -230,3 +224,21 @@ rvcmd packs/general/latest # RVC-Models-Downloader command
 <a href="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/graphs/contributors" target="_blank">
   <img src="https://contrib.rocks/image?repo=RVC-Project/Retrieval-based-Voice-Conversion-WebUI" />
 </a>
+
+
+
+## Eunah's Note
+
+### Retrieval based voice training setting
+
+Use this setting for best result
+
+![Screenshot 2024-05-01 173131](C:\Users\Eunah Lee\OneDrive - Hogarth Worldwide\Pictures\Screenshots\Screenshot 2024-05-01 173131.png)
+
+
+
+### Singing voice conversion setting
+
+Use this setting for best result
+
+![Screenshot 2024-05-03 163657](C:\Users\Eunah Lee\OneDrive - Hogarth Worldwide\Pictures\Screenshots\Screenshot 2024-05-03 163657.png)
